@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'http://localhost:8080/files/tutorials/fastai/course-v3/nbs/dl1/pokemon/models/trial-slicing-2.pth?_xsrf=2%7C0c47afc6%7C591cb4e8863381a022d955824b371c1e%7C1584446094'
+model_file_url = 'https://www.dropbox.com/s/w096x0k6yt6yaqj/trial-slicing-2.pth?dl=0'
 model_file_name = 'model'
 classes = ['Abra',
  'Aerodactyl',
